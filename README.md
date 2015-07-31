@@ -11,7 +11,7 @@ Auto detect and brute force SSH, SMB, and MSSQL logins
 git clone https://github.com/awhitehatter/lowhangingbrute.git
 ```
 
-_IMPORTANT: First use update the main function with the correct paths to the required username/password lists_
+_IMPORTANT: First use update the main function (see line 234) with the correct paths to the required username/password lists_
 
 
 
